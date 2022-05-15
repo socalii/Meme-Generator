@@ -19,7 +19,7 @@ main {
   height: 65px;
   padding: 20px;
   background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
-  color: white;
+  color: #fff;
 }
 
 .header--icon {
@@ -58,4 +58,9 @@ main {
   font-family: 'Karla', sans-serif;
   border: none;
   cursor: pointer;
+}
+
+.meme--image {
+  width: 100%;
+  margin-top: 36px;
 }
